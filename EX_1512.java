@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/number-of-good-pairs/
 public class EX_1512 {
     public int numIdenticalPairs(int[] nums) {
 
